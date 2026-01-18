@@ -1,0 +1,72 @@
+Project Objective
+
+The objective of this project is to predict whether a person may have heart disease based on basic medical details entered by the user through a website.
+
+This project is developed only for educational and academic purposes to demonstrate the use of Artificial Intelligence and Machine Learning in the healthcare domain.
+
+⸻
+
+Functional Requirements
+	1.	The website should allow the user to enter patient medical information.
+	2.	The system should analyze the input data using a machine learning model.
+	3.	The website should display the prediction result as either:
+Heart Disease Detected
+No Heart Disease
+
+⸻
+
+Input Parameters
+
+The system takes the following medical parameters as input:
+
+Age
+Gender
+Chest Pain Type
+Resting Blood Pressure
+Cholesterol Level
+Fasting Blood Sugar
+ECG Result
+Maximum Heart Rate
+Exercise Induced Angina
+Oldpeak
+Slope
+CA
+Thal
+
+⸻
+
+Technical Requirements
+
+Backend: Python with Flask
+Frontend: HTML and basic CSS
+Machine Learning Algorithm: Logistic Regression
+Libraries Used: Pandas, NumPy, Scikit-learn
+A pre-trained model is used and no model training is done on the website
+The project runs locally on a computer
+The implementation is simple and beginner-friendly
+
+⸻
+
+Output / Deliverables
+	1.	Simple explanation of the project working
+	2.	Flask backend code for prediction
+	3.	HTML frontend with input form
+	4.	Explanation of how data is taken and how prediction is done
+	5.	Project folder structure
+	6.	Viva-ready explanation for school examination
+
+⸻
+
+Level and Style Guidelines
+
+The project is beginner friendly
+Simple English is used
+Easy to explain in viva
+Suitable for Class 12 CBSE evaluation
+Focus is on understanding rather than complex coding
+
+⸻
+
+Disclaimer
+
+This project is created only for educational purposes and should not be used for real medical diagnosis.
